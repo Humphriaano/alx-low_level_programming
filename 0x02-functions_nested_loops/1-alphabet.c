@@ -1,8 +1,8 @@
-#include 'main.h"
+#include "main.h"
 
 /**
-* print_alphabet - print all alphabet in lowecase
-*/
+ * print_alphabet - print all alphabet in lowecase
+ */
 
 void print_alphabet(void)
 {
